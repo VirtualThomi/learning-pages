@@ -1,2 +1,0 @@
-# learning-pages
-learn website
